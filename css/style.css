@@ -64,7 +64,8 @@ body {
 
 hr {
   -webkit-box-sizing: content-box;
-  box-sizing: content-box;
+  box-sizing: conte
+  nt-box;
   height: 0;
   overflow: visible; }
 
